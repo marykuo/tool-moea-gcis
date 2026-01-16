@@ -15,4 +15,8 @@ uv sync
 
 # Execute data update
 uv run main
+
+# Linting and automatic formatting
+uv run ruff check
+uv run ruff format
 ```
