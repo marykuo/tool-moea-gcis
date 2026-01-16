@@ -19,6 +19,7 @@ def fetch_cod_data(gcis_host: str = GCIS_HOST):
 
     # fetch division, group
     child_list_by_section = fetch_child_codes(gcis_host, section_code_list)
+    fetch_division_codes(section_code_list, child_list_by_section)
 
     # fetch full codes
 
@@ -43,6 +44,7 @@ def fetch_section_codes(gcis_host):
 def fetch_child_codes(gcis_host, section_code_list):
     print("\n=== Fetching Child Codes ===")
     full_child_list = []
+    child_list_by_section = {code: None for code in section_code_list}
     for section_code in section_code_list:
         response = fetch_api(
             f"{gcis_host}/elawCodAp/api/codeSearch/getAllChildCode?mainCode={section_code}"
@@ -53,9 +55,34 @@ def fetch_child_codes(gcis_host, section_code_list):
         )
         # append to full list
         full_child_list.append(response)
+        # store by section
+        child_list_by_section[section_code] = response
         print(
             f"Section {section_code} has {len(response['codeSearchDto'])} division codes"
         )
 
     # save full raw child list
     save_json_to_file(full_child_list, "data/cod/child_code/all_child_code.json")
+    return child_list_by_section
+
+
+def fetch_division_codes(section_code_list, child_list_by_section):
+    print("\n=== Fetching Division Codes ===")
+    division_full_list = []
+    for section_code in section_code_list:
+        # extract division list
+        division_list = copy.deepcopy(
+            child_list_by_section[section_code]["codeSearchDto"]
+        )
+
+        # clean up division items
+        for division_item in division_list:
+            # remove group codes
+            division_item.pop("codeSearchDto")
+            division_full_list.append(division_item)
+
+        # print division codes
+        print([item["code"] for item in division_list])
+
+    # save full processed division list
+    save_json_to_file(division_full_list, "data/cod/2_division_code.json")

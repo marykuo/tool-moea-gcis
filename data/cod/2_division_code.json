@@ -1,0 +1,779 @@
+[
+  {
+    "code": "A1",
+    "codeName": "農業",
+    "codeNameE": "Agriculture",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "A2",
+    "codeName": "林業及伐木業",
+    "codeNameE": "Forestry and Logging",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "A3",
+    "codeName": "漁業",
+    "codeNameE": "Fishing and Aquaculture",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "A4",
+    "codeName": "牧業",
+    "codeNameE": "Animal Husbandry",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "B1",
+    "codeName": "能源礦業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "B2",
+    "codeName": "其他礦業",
+    "codeNameE": "Other Mining Activities",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "B6",
+    "codeName": "土石採取業",
+    "codeNameE": "Quarrying",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "C1",
+    "codeName": "食品、飲料及菸類製造業",
+    "codeNameE": "Manufacture of Food, Beverages and Tobacco",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "C2",
+    "codeName": "飼料及寵物食品製造業",
+    "codeNameE": "Manufacture of Animal Feeds and Pet Food",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "C3",
+    "codeName": "紡織、成衣、服飾品及紡織製品製造業",
+    "codeNameE": "Manufacture of Textiles, Wearing Apparel, Clothing Accessories and Made-up Textile Articles ",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "C4",
+    "codeName": "皮革、毛皮及其製品製造業",
+    "codeNameE": "Manufacture of Leather, Fur and Related Products",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "C5",
+    "codeName": "木竹製品製造業",
+    "codeNameE": "Manufacture of Wood and of Products of Wood and Bamboo",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "C6",
+    "codeName": "紙漿、紙及紙製品業",
+    "codeNameE": "Manufacture of Paper and Paper Products",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "C7",
+    "codeName": "印刷及其輔助業",
+    "codeNameE": "Printing and Service Activities Related to Printing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "C8",
+    "codeName": "化學業",
+    "codeNameE": "Chemical Industry",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "C9",
+    "codeName": "非金屬礦物製品製造業",
+    "codeNameE": "Manufacture of Other Non-metallic Mineral Products",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CA",
+    "codeName": "金屬業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CB",
+    "codeName": "機械製造業",
+    "codeNameE": "Machinery Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CC",
+    "codeName": "電機及電子機械器材業",
+    "codeNameE": "Electrical Engineering and Electronic Machinery Equipment Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CD",
+    "codeName": "運輸工具製造業",
+    "codeNameE": "Transport Equipment and Parts Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CE",
+    "codeName": "光學及精密器械製造業",
+    "codeNameE": "Optics and Precision Instrument Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CF",
+    "codeName": "醫療器材製造業",
+    "codeNameE": "Medical Devices Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CG",
+    "codeName": "珠寶及貴金屬製品製造業",
+    "codeNameE": "Jewelry and Precious Metals Products Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CH",
+    "codeName": "育樂用品製造業",
+    "codeNameE": "Sports and Recreational Goods Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CI",
+    "codeName": "繩、纜、網、氈、毯製造業",
+    "codeNameE": "Rope, Cable, Net, Rug and Felt Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CJ",
+    "codeName": "製帽業",
+    "codeNameE": "Hat Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CK",
+    "codeName": "製鞋業",
+    "codeNameE": "Footwear Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CL",
+    "codeName": "製傘業",
+    "codeNameE": "Umbrella Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CM",
+    "codeName": "箱、包、袋業",
+    "codeNameE": "Case and Bag Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CN",
+    "codeName": "家具及裝設品製造業",
+    "codeNameE": "Furniture and Decorations Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CO",
+    "codeName": "餐具製造業",
+    "codeNameE": "Tableware Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CP",
+    "codeName": "手工具製造業",
+    "codeNameE": "Hand Tools Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CQ",
+    "codeName": "模具製造業",
+    "codeNameE": "Mold and Die Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CR",
+    "codeName": "瓦斯器材及其零件製造業",
+    "codeNameE": "Gas Apparatus and Parts Manufacturing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "CZ",
+    "codeName": "其他工業製品製造業",
+    "codeNameE": "Manufacture of Other Industrial Products",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "D1",
+    "codeName": "電力供應業",
+    "codeNameE": "Electricity Supply",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "D2",
+    "codeName": "氣體燃料供應業",
+    "codeNameE": "Gas Supply",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "D3",
+    "codeName": "自來水供應業",
+    "codeNameE": "Water Supply",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "D4",
+    "codeName": "熱能供應業",
+    "codeNameE": "Thermal Energy Supply ",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "D5",
+    "codeName": "溫泉取供業",
+    "codeNameE": "Hot Spring Water Obtains and Provides ",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "D6",
+    "codeName": "再生水經營業",
+    "codeNameE": "Reclaimed Water Operators",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "E1",
+    "codeName": "營造業",
+    "codeNameE": "Construction Activities",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "E4",
+    "codeName": "海事工程業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "E5",
+    "codeName": "管道工程業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "E6",
+    "codeName": "機電工程業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "E7",
+    "codeName": "電信工程業",
+    "codeNameE": "Telecommunications Engineering",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "E8",
+    "codeName": "建物裝修及裝潢業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "E9",
+    "codeName": "油漆及防蝕工程業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "EZ",
+    "codeName": "其他工程業",
+    "codeNameE": "Other Engineering ",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "F1",
+    "codeName": "批發業",
+    "codeNameE": "Wholesale Trade",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "F2",
+    "codeName": "零售業",
+    "codeNameE": "Retail Trade",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "F3",
+    "codeName": "綜合零售業",
+    "codeNameE": "Comprehensive Retail Sale",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "F4",
+    "codeName": "國際貿易業",
+    "codeNameE": "International Trade",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "F5",
+    "codeName": "餐飲業",
+    "codeNameE": "Catering",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "F6",
+    "codeName": "智慧財產權業",
+    "codeNameE": "Intellectual Property Rights",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "G1",
+    "codeName": "陸上運輸業",
+    "codeNameE": "Land Transportation",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "G2",
+    "codeName": "陸上運輸輔助業",
+    "codeNameE": "Service Activities Incidental to Land Transportation",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "G3",
+    "codeName": "水上運輸業",
+    "codeNameE": "Water Transportation",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "G4",
+    "codeName": "水上運輸輔助業",
+    "codeNameE": "Service Activities Incidental to Water Transportation",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "G5",
+    "codeName": "航空運輸業",
+    "codeNameE": "Air Transport",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "G6",
+    "codeName": "航空運輸輔助業",
+    "codeNameE": "Service Activities Incidental to Air Transportation",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "G7",
+    "codeName": "其他運輸輔助業",
+    "codeNameE": "Other Transportation Support Activities",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "G8",
+    "codeName": "倉儲業",
+    "codeNameE": "Warehousing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "G9",
+    "codeName": "電信業",
+    "codeNameE": "Telecommunications Enterprises",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "GA",
+    "codeName": "郵政業",
+    "codeNameE": "Postal",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "H1",
+    "codeName": "金融業",
+    "codeNameE": "Financial Activities",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "H2",
+    "codeName": "投資典當業",
+    "codeNameE": "Investment and Pawnshop",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "H3",
+    "codeName": "證券業",
+    "codeNameE": "Securities",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "H4",
+    "codeName": "期貨業",
+    "codeNameE": "Futures Enterprises",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "H5",
+    "codeName": "保險業",
+    "codeNameE": "Insurance",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "H6",
+    "codeName": "保險輔助人",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "H7",
+    "codeName": "不動產業",
+    "codeNameE": "Real Estate Activities",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "H8",
+    "codeName": "金融控股公司業",
+    "codeNameE": "Financial Holding Company",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "H9",
+    "codeName": "證券期貨控股業",
+    "codeNameE": "Securities and Futures Holding",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "HZ",
+    "codeName": "其他金融、保險及不動產業",
+    "codeNameE": "Other Financial, Insurance and Real Estate Business",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "I1",
+    "codeName": "顧問服務業",
+    "codeNameE": "Consulting Service",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "I3",
+    "codeName": "資訊服務業",
+    "codeNameE": "Information Services",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "I4",
+    "codeName": "廣告業",
+    "codeNameE": "Advertisement Service",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "I5",
+    "codeName": "設計業",
+    "codeNameE": "Designing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "I7",
+    "codeName": "就業服務業",
+    "codeNameE": "Employment Service",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "I8",
+    "codeName": "公寓大廈管理服務業",
+    "codeNameE": "Condominium Buildings Management Service",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "I9",
+    "codeName": "保全業",
+    "codeNameE": "Private Security Service",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "IA",
+    "codeName": "工業檢驗業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "IB",
+    "codeName": "建築物公共安全檢查業",
+    "codeNameE": "Buildings Public Security Inspecting",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "IC",
+    "codeName": "藥品檢驗業",
+    "codeNameE": "Medicine Inspection",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "ID",
+    "codeName": "度量衡器證明業",
+    "codeNameE": "Measuring Instruments Certification",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "IE",
+    "codeName": "電信業務門號代辦業",
+    "codeNameE": "Telecommunications Service Number Agencies",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "IF",
+    "codeName": "檢測維護業",
+    "codeNameE": "Inspection and Repair",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "IG",
+    "codeName": "研究發展服務業",
+    "codeNameE": "Research and Development Service",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "IH",
+    "codeName": "產業控股業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "IZ",
+    "codeName": "其他專業、科學及技術服務業",
+    "codeNameE": "Other Professional, Scientific and Technical Activities",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "J1",
+    "codeName": "環保服務業",
+    "codeNameE": "Environmental Services",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "J2",
+    "codeName": "訓練服務業",
+    "codeNameE": "Training Services",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "J3",
+    "codeName": "出版事業",
+    "codeNameE": "Publishing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "J4",
+    "codeName": "電影事業",
+    "codeNameE": "Motion Picture",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "J5",
+    "codeName": "廣播電視業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "J6",
+    "codeName": "藝文業",
+    "codeNameE": "Arts and Literature",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "J7",
+    "codeName": "休閒、娛樂服務業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "J8",
+    "codeName": "運動服務業",
+    "codeNameE": "Sports Activities",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "J9",
+    "codeName": "觀光及旅遊服務業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JA",
+    "codeName": "個人服務業",
+    "codeNameE": "Personal Service Activities",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JB",
+    "codeName": "會議及展覽服務業",
+    "codeNameE": "Conference and Exhibition Services",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JC",
+    "codeName": "氣象服務業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JD",
+    "codeName": "工商徵信服務業",
+    "codeNameE": "Industrial and Commercial Credit Checking Service",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JE",
+    "codeName": "租賃業",
+    "codeNameE": "Rental and Leasing",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JF",
+    "codeName": "民俗調理業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JG",
+    "codeName": "兒童課後照顧服務業",
+    "codeNameE": "After-School Child Care Services",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JH",
+    "codeName": "長期照顧服務業",
+    "codeNameE": null,
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JI",
+    "codeName": "互動式情境體驗業",
+    "codeNameE": "Interactive Scenario Experience Services",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "JZ",
+    "codeName": "其他服務業",
+    "codeNameE": "Unclassified Other Services",
+    "description": null,
+    "isStop": "F"
+  },
+  {
+    "code": "ZZ",
+    "codeName": "其他未分類業",
+    "codeNameE": "Other Activities Not Elsewhere Classified",
+    "description": null,
+    "isStop": "F"
+  }
+]
