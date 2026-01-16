@@ -1,0 +1,26 @@
+{
+  "code": "Z",
+  "codeName": "其他未分類業",
+  "codeNameE": "Other Activities Not Elsewhere Classified",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "ZZ",
+      "codeName": "其他未分類業",
+      "codeNameE": "Other Activities Not Elsewhere Classified",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "ZZ99",
+          "codeName": "其他未分類業",
+          "codeNameE": "Other Activities Not Elsewhere Classified",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

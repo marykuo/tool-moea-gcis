@@ -1,0 +1,76 @@
+{
+  "code": "B",
+  "codeName": "礦業及土石採取業",
+  "codeNameE": "Mining and Quarrying",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "B1",
+      "codeName": "能源礦業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "B101",
+          "codeName": "煤礦業",
+          "codeNameE": "Coal Mining",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "B102",
+          "codeName": "石油及天然氣礦業",
+          "codeNameE": "Extraction of Crude Petroleum and Natural Gas",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "B2",
+      "codeName": "其他礦業",
+      "codeNameE": "Other Mining Activities",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "B201",
+          "codeName": "金屬礦業",
+          "codeNameE": "Mining of Metal Ores",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "B202",
+          "codeName": "非金屬礦業",
+          "codeNameE": "Mining of Non-metallic ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "B6",
+      "codeName": "土石採取業",
+      "codeNameE": "Quarrying",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "B601",
+          "codeName": "土石採取業",
+          "codeNameE": "Quarrying ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

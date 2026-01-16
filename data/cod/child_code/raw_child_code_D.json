@@ -1,0 +1,111 @@
+{
+  "code": "D",
+  "codeName": "水電燃氣業",
+  "codeNameE": "Water, Electricity and Gas Supply",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "D1",
+      "codeName": "電力供應業",
+      "codeNameE": "Electricity Supply",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "D101",
+          "codeName": "電力供應業",
+          "codeNameE": "Electricity Supply",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "D2",
+      "codeName": "氣體燃料供應業",
+      "codeNameE": "Gas Supply",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "D201",
+          "codeName": "氣體燃料供應業",
+          "codeNameE": "Gas Supply",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "D3",
+      "codeName": "自來水供應業",
+      "codeNameE": "Water Supply",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "D301",
+          "codeName": "自來水供應業",
+          "codeNameE": "Water Supply",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "D4",
+      "codeName": "熱能供應業",
+      "codeNameE": "Thermal Energy Supply ",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "D401",
+          "codeName": "熱能供應業",
+          "codeNameE": "Thermal Energy Supply ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "D5",
+      "codeName": "溫泉取供業",
+      "codeNameE": "Hot Spring Water Obtains and Provides ",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "D501",
+          "codeName": "溫泉取供業",
+          "codeNameE": "Hot Spring Water Obtains and Provides ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "D6",
+      "codeName": "再生水經營業",
+      "codeNameE": "Reclaimed Water Operators",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "D601",
+          "codeName": "再生水經營業",
+          "codeNameE": "Reclaimed Water Operators",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

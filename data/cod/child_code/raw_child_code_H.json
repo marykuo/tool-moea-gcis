@@ -1,0 +1,483 @@
+{
+  "code": "H",
+  "codeName": "金融、保險及不動產業",
+  "codeNameE": "Financial, Insurance Activities and Real Estate Activities",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "H1",
+      "codeName": "金融業",
+      "codeNameE": "Financial Activities",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "H101",
+          "codeName": "銀行業",
+          "codeNameE": "Banking",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H102",
+          "codeName": "票券金融業",
+          "codeNameE": "Bills Finance",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H103",
+          "codeName": "外匯經紀商",
+          "codeNameE": "Foreign Exchange Brokers",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H104",
+          "codeName": "信用卡業",
+          "codeNameE": "Credit Card",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H105",
+          "codeName": "信託業",
+          "codeNameE": "Trust",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H106",
+          "codeName": "郵政儲金匯兌業",
+          "codeNameE": "Postal Savings and Remittance Service Business",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H107",
+          "codeName": "短期票券集中保管結算機構",
+          "codeNameE": "Short-term Bill Centralized Custody and Settlement Institution",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H108",
+          "codeName": "農業金庫業",
+          "codeNameE": "Agricultural Bank",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "H2",
+      "codeName": "投資典當業",
+      "codeNameE": "Investment and Pawnshop",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "H201",
+          "codeName": "一般投資業",
+          "codeNameE": "Investment",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H202",
+          "codeName": "創業投資業",
+          "codeNameE": "Venture Investment",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H203",
+          "codeName": "當舖業",
+          "codeNameE": "Pawnshop",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H204",
+          "codeName": "私募股權投資業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "H3",
+      "codeName": "證券業",
+      "codeNameE": "Securities",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "H301",
+          "codeName": "證券商",
+          "codeNameE": "Securities Dealer",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H302",
+          "codeName": "證券金融業",
+          "codeNameE": "Securities Finance",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H303",
+          "codeName": "證券投資信託業",
+          "codeNameE": "Securities Investment Trust",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H304",
+          "codeName": "證券投資顧問業",
+          "codeNameE": "Securities Investment Advisor",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H305",
+          "codeName": "證券集中保管業",
+          "codeNameE": "Centralized Securities Depository Enterprise",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H306",
+          "codeName": "證券交易所",
+          "codeNameE": "Stock Exchange",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H307",
+          "codeName": "信用評等業",
+          "codeNameE": "Credit Rating Agencies",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H309",
+          "codeName": "櫃檯買賣業",
+          "codeNameE": "Over-the-Counter Trading",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H310",
+          "codeName": "證券交易輔助人",
+          "codeNameE": "Securities Trading Assistance",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "H4",
+      "codeName": "期貨業",
+      "codeNameE": "Futures Enterprises",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "H401",
+          "codeName": "期貨商",
+          "codeNameE": "Futures Commission Merchants",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H402",
+          "codeName": "期貨交易場所",
+          "codeNameE": "Futures Exchange",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H403",
+          "codeName": "期貨結算機構",
+          "codeNameE": "Futures Clearing Houses",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H404",
+          "codeName": "槓桿交易商",
+          "codeNameE": "Leverage Transaction Merchant",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H405",
+          "codeName": "期貨顧問事業",
+          "codeNameE": "Futures Advisory Enterprises",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H406",
+          "codeName": "期貨信託事業",
+          "codeNameE": "Futures Trust Enterprises",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H407",
+          "codeName": "期貨經理事業",
+          "codeNameE": "Managed Futures Enterprises",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H408",
+          "codeName": "期貨交易輔助人",
+          "codeNameE": "Futures Trading Assistance",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H499",
+          "codeName": "其他期貨服務事業",
+          "codeNameE": "Other Futures Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "H5",
+      "codeName": "保險業",
+      "codeNameE": "Insurance",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "H501",
+          "codeName": "保險業",
+          "codeNameE": "Insurance",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "H6",
+      "codeName": "保險輔助人",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "H601",
+          "codeName": "保險代理人",
+          "codeNameE": "Insurance Agents",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H602",
+          "codeName": "保險經紀人",
+          "codeNameE": "Insurance Broker",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H603",
+          "codeName": "保險公證人",
+          "codeNameE": "Insurance Surveyors",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "H7",
+      "codeName": "不動產業",
+      "codeNameE": "Real Estate Activities",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "H701",
+          "codeName": "不動產投資業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H702",
+          "codeName": "建築經理業",
+          "codeNameE": "Construction Manager",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H703",
+          "codeName": "不動產買賣租賃業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H704",
+          "codeName": "不動產經紀業",
+          "codeNameE": "Real Estate Brokerage",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "H706",
+          "codeName": "租賃住宅服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "H8",
+      "codeName": "金融控股公司業",
+      "codeNameE": "Financial Holding Company",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "H801",
+          "codeName": "金融控股公司業",
+          "codeNameE": "Financial Holding Company",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "H9",
+      "codeName": "證券期貨控股業",
+      "codeNameE": "Securities and Futures Holding",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "H901",
+          "codeName": "證券期貨控股業",
+          "codeNameE": "Securities and Futures Holding",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "HZ",
+      "codeName": "其他金融、保險及不動產業",
+      "codeNameE": "Other Financial, Insurance and Real Estate Business",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "HZ02",
+          "codeName": "金融機構金錢債權處理業務",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "HZ03",
+          "codeName": "金融資產證券化業",
+          "codeNameE": "Financial Asset Securitization Special Purpose Company",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "HZ04",
+          "codeName": "存款保險業",
+          "codeNameE": "Deposit Insurance",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "HZ05",
+          "codeName": "電子票證業",
+          "codeNameE": "Electronic Stored Value Cards",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "HZ06",
+          "codeName": "電子支付業",
+          "codeNameE": "Electronic Payment Enterprises",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "HZ07",
+          "codeName": "外籍移工匯兌業",
+          "codeNameE": "Foreign Migrant Workers Remittances Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "HZ99",
+          "codeName": "其他金融、保險及不動產業",
+          "codeNameE": "Other Financial, Insurance and Real Estate Business",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

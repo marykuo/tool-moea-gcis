@@ -1,0 +1,345 @@
+{
+  "code": "E",
+  "codeName": "營造及工程業",
+  "codeNameE": "Construction",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "E1",
+      "codeName": "營造業",
+      "codeNameE": "Construction Activities",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "E101",
+          "codeName": "綜合營造業",
+          "codeNameE": "Comprehensive Construction Activities",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E102",
+          "codeName": "土木包工業",
+          "codeNameE": "Civil Engineering contractors",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E103",
+          "codeName": "專業營造業",
+          "codeNameE": "Specialized Construction Enterprises",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "E4",
+      "codeName": "海事工程業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "E401",
+          "codeName": "疏濬業",
+          "codeNameE": "Dredging Industry",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E402",
+          "codeName": "沙石、淤泥海拋業",
+          "codeNameE": "Sandstone, Silt Sea Throwing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "E5",
+      "codeName": "管道工程業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "E501",
+          "codeName": "自來水管承裝商",
+          "codeNameE": "Tap Water Pipelines Contractors",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E502",
+          "codeName": "燃料導管安裝工程業",
+          "codeNameE": "Fuel Catheter Installation Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E503",
+          "codeName": "下水道用戶排水設備承裝商",
+          "codeNameE": "Sewerage User Drainage Equipment Contractors",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E599",
+          "codeName": "其他管道工程業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "E6",
+      "codeName": "機電工程業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "E601",
+          "codeName": "電器承裝、安裝業",
+          "codeNameE": "Electric Appliance Construction and Installation",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E602",
+          "codeName": "冷凍空調工程業",
+          "codeNameE": "Refrigeration and Air Conditioning Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E603",
+          "codeName": "機電工程業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E604",
+          "codeName": "機械工程業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E605",
+          "codeName": "電腦工程業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E606",
+          "codeName": "用電設備檢驗維護業",
+          "codeNameE": "Power Consuming Equipment Inspecting and Maintenance",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E607",
+          "codeName": "太陽熱能設備安裝工程業",
+          "codeNameE": "Solar Thermal Energy Equipment Installation Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "E7",
+      "codeName": "電信工程業",
+      "codeNameE": "Telecommunications Engineering",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "E701",
+          "codeName": "電信工程業",
+          "codeNameE": "Telecommunications Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "E8",
+      "codeName": "建物裝修及裝潢業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "E801",
+          "codeName": "建物裝修及裝潢業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "E9",
+      "codeName": "油漆及防蝕工程業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "E901",
+          "codeName": "油漆工程業",
+          "codeNameE": "Painting Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "E903",
+          "codeName": "防蝕、防銹工程業",
+          "codeNameE": "Anti-Corrosion and Anti-Rust Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "EZ",
+      "codeName": "其他工程業",
+      "codeNameE": "Other Engineering ",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "EZ01",
+          "codeName": "鑿井業",
+          "codeNameE": "Drilling Well",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ02",
+          "codeName": "起重工程業",
+          "codeNameE": "Crane and Hoist Services Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ03",
+          "codeName": "鎔爐安裝業",
+          "codeNameE": "Furnace Installation",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ05",
+          "codeName": "儀器、儀表安裝工程業",
+          "codeNameE": "Instrument and Meters Installation Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ06",
+          "codeName": "交通標示工程業",
+          "codeNameE": "Traffic Marking Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ07",
+          "codeName": "鑽孔工程業",
+          "codeNameE": "Traffic Marking Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ08",
+          "codeName": "測繪業",
+          "codeNameE": "Surveying and Mapping",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ09",
+          "codeName": "靜電防護及消除工程業",
+          "codeNameE": "Electrostatic Protection and Cancellation Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ11",
+          "codeName": "球場跑道樹脂材料鋪設工程業",
+          "codeNameE": "Ball Park Runway Resin Material Laying Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ13",
+          "codeName": "核子工程業",
+          "codeNameE": "Nuclear Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ14",
+          "codeName": "運動場地用設備工程業",
+          "codeNameE": "Sport Venue Equipment Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ15",
+          "codeName": "保溫、保冷安裝工程業",
+          "codeNameE": "Warming and Cooling Maintainance Construction",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "EZ99",
+          "codeName": "其他工程業",
+          "codeNameE": "Other Engineering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

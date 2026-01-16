@@ -1,0 +1,125 @@
+{
+  "code": "A",
+  "codeName": "農、林、漁、牧業",
+  "codeNameE": "Agriculture, Forestry, Fishing and Animal Husbandry",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "A1",
+      "codeName": "農業",
+      "codeNameE": "Agriculture",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "A101",
+          "codeName": "農藝及園藝業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "A102",
+          "codeName": "農事服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "A199",
+          "codeName": "其他農業",
+          "codeNameE": "Other Agriculture",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "A2",
+      "codeName": "林業及伐木業",
+      "codeNameE": "Forestry and Logging",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "A201",
+          "codeName": "林業",
+          "codeNameE": "Forestry",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "A202",
+          "codeName": "伐木及林產經營業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "A299",
+          "codeName": "其他林業",
+          "codeNameE": "Other Forestry Activities",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "A3",
+      "codeName": "漁業",
+      "codeNameE": "Fishing and Aquaculture",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "A301",
+          "codeName": "漁撈及水產養殖業",
+          "codeNameE": "Fishing and Aquaculture",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "A302",
+          "codeName": "漁事服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "A399",
+          "codeName": "其他漁業",
+          "codeNameE": "Other Fishing Activities",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "A4",
+      "codeName": "牧業",
+      "codeNameE": "Animal Husbandry",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "A401",
+          "codeName": "畜牧及畜牧服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "code": "F",
+  "codeName": "批發、零售及餐飲業",
+  "codeNameE": "Wholesale, Retail Sale and Catering",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "F1",
+      "codeName": "批發業",
+      "codeNameE": "Wholesale Trade",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "F101",
+          "codeName": "農、畜、水產品批發業",
+          "codeNameE": "Wholesale of Agricultural, Livestock and Aquatic Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F102",
+          "codeName": "食品什貨、菸酒、飲料批發業",
+          "codeNameE": "Wholesale of Foods and Groceries, Tobacco and Alcohol and Nonalcoholic Beverages",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F103",
+          "codeName": "飼料批發業",
+          "codeNameE": "Wholesale of Animal Feeds",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F104",
+          "codeName": "布疋、衣著、鞋、帽、傘、服飾品批發業",
+          "codeNameE": "Wholesale of Cloths, Garments, Shoes, Hats, Umbrellas and Clothing Accessories",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F105",
+          "codeName": "家具及裝設品批發業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F106",
+          "codeName": "五金及日常用品批發業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F107",
+          "codeName": "化學原料及其製品批發業",
+          "codeNameE": "Wholesale of Chemical Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F108",
+          "codeName": "藥物、化粧品批發業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F109",
+          "codeName": "文教、樂器、育樂用品批發業",
+          "codeNameE": "Wholesale of Culture, Education, Musical Instruments and Educational Entertainment Supplies",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F110",
+          "codeName": "鐘錶、眼鏡批發業",
+          "codeNameE": "Wholesale of Clocks, Watches and Glasses",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F111",
+          "codeName": "建材批發業",
+          "codeNameE": "Wholesale of Building Materials",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F112",
+          "codeName": "石油製品、燃料批發業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F113",
+          "codeName": "機械器具批發業",
+          "codeNameE": "Wholesale of Machinery and Tools",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F114",
+          "codeName": "交通運輸工具批發業",
+          "codeNameE": "Wholesale of Traffic Means of Transport and Component Parts Thereof",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F115",
+          "codeName": "首飾及貴金屬批發業",
+          "codeNameE": "Wholesale of Jewelry and Precious Metals",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F116",
+          "codeName": "照相器材批發業",
+          "codeNameE": "Wholesale of Camera Equipment",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F117",
+          "codeName": "消防安全設備批發業",
+          "codeNameE": "Wholesale of Fire Safety Equipment",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F118",
+          "codeName": "資訊軟體批發業",
+          "codeNameE": "Wholesale of Computer Software",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F119",
+          "codeName": "電子材料批發業",
+          "codeNameE": "Wholesale of Electronic Materials",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F120",
+          "codeName": "耐火材料批發業",
+          "codeNameE": "Wholesale of Refractory Materials",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F121",
+          "codeName": "食品添加物批發業",
+          "codeNameE": "Wholesale of Food Additives",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F199",
+          "codeName": "其他批發業",
+          "codeNameE": "Other Wholesale Trade",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "F2",
+      "codeName": "零售業",
+      "codeNameE": "Retail Trade",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "F201",
+          "codeName": "農、畜、水產品零售業",
+          "codeNameE": "Retail Sale of Agricultural, Livestock and Aquaculture Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F202",
+          "codeName": "飼料零售業",
+          "codeNameE": "Retail Sale of Feeds",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F203",
+          "codeName": "食品什貨、菸酒、飲料零售業",
+          "codeNameE": "Retail Sale of Foods and Groceries, Tobacco and Alcohol and Nonalcoholic Beverages",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F204",
+          "codeName": "布疋、衣著、鞋、帽、傘、服飾品零售業",
+          "codeNameE": "Retail Sale of Cloths, Garments, Shoes, Hats, Umbrellas and Clothing Accessories",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F205",
+          "codeName": "家具、寢具、廚房器具、裝設品零售業",
+          "codeNameE": "Retail Sale of Furniture, Bedding Kitchen Utensils and Fixtures",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F206",
+          "codeName": "五金及日常用品零售業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F207",
+          "codeName": "化學原料及其製品零售業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F208",
+          "codeName": "藥物、化粧品零售業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F209",
+          "codeName": "文教、樂器、育樂用品零售業",
+          "codeNameE": "Retail Sale of Culture, Education, Musical Instruments and Educational Entertainment Supplies",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F210",
+          "codeName": "鐘錶、眼鏡零售業",
+          "codeNameE": "Retail Sale of Clocks, Watches and Glasses",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F211",
+          "codeName": "建材零售業",
+          "codeNameE": "Retail Sale of Building Materials ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F212",
+          "codeName": "石油製品、燃料零售業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F213",
+          "codeName": "機械器具零售業",
+          "codeNameE": "Retail Sale of Machinery and Tools",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F214",
+          "codeName": "交通運輸工具零售業",
+          "codeNameE": "Retail Sale of Traffic Means of Transport and Component Parts Thereof",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F215",
+          "codeName": "首飾及貴金屬零售業",
+          "codeNameE": "Retail Sale of Jewelry and Precious Metals",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F216",
+          "codeName": "照相器材零售業",
+          "codeNameE": "Retail Sale of Camera Equipment",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F217",
+          "codeName": "消防安全設備零售業",
+          "codeNameE": "Retail Sale of Fire Safety Equipment",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F218",
+          "codeName": "資訊軟體零售業",
+          "codeNameE": "Retail Sale of Computer Software",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F219",
+          "codeName": "電子材料零售業",
+          "codeNameE": "Retail Sale of Electronic Materials",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F220",
+          "codeName": "耐火材料零售業",
+          "codeNameE": "Retail Sale of Refractory Materials",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F221",
+          "codeName": "食品添加物零售業",
+          "codeNameE": "Retail of Food Additives",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F299",
+          "codeName": "其他零售業",
+          "codeNameE": "Retail Sale of Other Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "F3",
+      "codeName": "綜合零售業",
+      "codeNameE": "Comprehensive Retail Sale",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "F301",
+          "codeName": "百貨超市業",
+          "codeNameE": "Department Stores and Supermarkets",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "F399",
+          "codeName": "其他綜合零售業",
+          "codeNameE": "Retail Sale of Other Integrated",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "F4",
+      "codeName": "國際貿易業",
+      "codeNameE": "International Trade",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "F401",
+          "codeName": "國際貿易業",
+          "codeNameE": "International Trade",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "F5",
+      "codeName": "餐飲業",
+      "codeNameE": "Catering",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "F501",
+          "codeName": "飲食業",
+          "codeNameE": "Catering",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "F6",
+      "codeName": "智慧財產權業",
+      "codeNameE": "Intellectual Property Rights",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "F601",
+          "codeName": "智慧財產權業",
+          "codeNameE": "Intellectual Property Rights",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

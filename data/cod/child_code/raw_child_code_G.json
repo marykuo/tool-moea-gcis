@@ -1,0 +1,355 @@
+{
+  "code": "G",
+  "codeName": "運輸、倉儲及通信業",
+  "codeNameE": "Transportation, Storage and Communication",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "G1",
+      "codeName": "陸上運輸業",
+      "codeNameE": "Land Transportation",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "G101",
+          "codeName": "汽車運輸業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G102",
+          "codeName": "大眾捷運系統運輸業",
+          "codeNameE": "Mass Rapid Transit System Transport",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G103",
+          "codeName": "公路經營業",
+          "codeNameE": "Highway Operators",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G104",
+          "codeName": "鐵路經營業",
+          "codeNameE": "Railroad Operators",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "G2",
+      "codeName": "陸上運輸輔助業",
+      "codeNameE": "Service Activities Incidental to Land Transportation",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "G201",
+          "codeName": "計程車客運服務業",
+          "codeNameE": "Taxi Carrier Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G202",
+          "codeName": "停車場經營業",
+          "codeNameE": "Parking Area Operators",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G203",
+          "codeName": "救護車經營業",
+          "codeNameE": "Ambulance Operators",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "G3",
+      "codeName": "水上運輸業",
+      "codeNameE": "Water Transportation",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "G301",
+          "codeName": "船舶運送業",
+          "codeNameE": "Vessel Carriers",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G302",
+          "codeName": "小船經營業",
+          "codeNameE": "Boat Operators",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "G4",
+      "codeName": "水上運輸輔助業",
+      "codeNameE": "Service Activities Incidental to Water Transportation",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "G401",
+          "codeName": "船務代理業",
+          "codeNameE": "Shipping Agency",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G402",
+          "codeName": "海運承攬運送業",
+          "codeNameE": "Ocean Freight Forwarders",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G403",
+          "codeName": "船舶出租業",
+          "codeNameE": "Vessel Rental",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G404",
+          "codeName": "貨櫃集散站經營業",
+          "codeNameE": "Container Terminal Operators",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G405",
+          "codeName": "貨櫃出租業",
+          "codeNameE": "Container Rental",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G406",
+          "codeName": "商港服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G407",
+          "codeName": "打撈業",
+          "codeNameE": "Salvaging",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G408",
+          "codeName": "海難救護業",
+          "codeNameE": "Shipwreck Emergency Medical",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G409",
+          "codeName": "工業專用港服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "G5",
+      "codeName": "航空運輸業",
+      "codeNameE": "Air Transport",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "G501",
+          "codeName": "民用航空運輸業",
+          "codeNameE": "Civil Air Transport",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G502",
+          "codeName": "普通航空業",
+          "codeNameE": "General Aviation",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "G6",
+      "codeName": "航空運輸輔助業",
+      "codeNameE": "Service Activities Incidental to Air Transportation",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "G601",
+          "codeName": "航空貨運承攬業",
+          "codeNameE": "Air Freight Forwarder",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G602",
+          "codeName": "航空站地勤業",
+          "codeNameE": "Airport Ground Handling Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G603",
+          "codeName": "航空貨物集散站經營業",
+          "codeNameE": "Air Cargo Entrepots",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G604",
+          "codeName": "民營飛行場業",
+          "codeNameE": "Private Airfields",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G605",
+          "codeName": "空廚業",
+          "codeNameE": "Catering Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G606",
+          "codeName": "機場經營業",
+          "codeNameE": "Airport Operator",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "G7",
+      "codeName": "其他運輸輔助業",
+      "codeNameE": "Other Transportation Support Activities",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "G701",
+          "codeName": "報關業",
+          "codeNameE": "Customs Brokers",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G702",
+          "codeName": "船舶勞務承攬業",
+          "codeNameE": "Ship Service Operator",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "G799",
+          "codeName": "其他運輸輔助業",
+          "codeNameE": "Other Transportation Support",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "G8",
+      "codeName": "倉儲業",
+      "codeNameE": "Warehousing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "G801",
+          "codeName": "倉儲業",
+          "codeNameE": "Warehousing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "G9",
+      "codeName": "電信業",
+      "codeNameE": "Telecommunications Enterprises",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "G903",
+          "codeName": "電信事業",
+          "codeNameE": "Telecommunications Enterprises",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "GA",
+      "codeName": "郵政業",
+      "codeNameE": "Postal",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "GA01",
+          "codeName": "郵政業",
+          "codeNameE": "Postal",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

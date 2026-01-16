@@ -1,0 +1,749 @@
+{
+  "code": "C",
+  "codeName": "製造業",
+  "codeNameE": "Manufacturing",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "C1",
+      "codeName": "食品、飲料及菸類製造業",
+      "codeNameE": "Manufacture of Food, Beverages and Tobacco",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "C101",
+          "codeName": "屠宰業",
+          "codeNameE": "Slaughter ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C102",
+          "codeName": "乳品製造業",
+          "codeNameE": "Manufacture of Dairy Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C103",
+          "codeName": "罐頭、冷凍、脫水及醃漬食品製造業",
+          "codeNameE": "Manufacturing of Canning, Freezing, Dehydration, Pickled of Food",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C104",
+          "codeName": "糖果及烘焙食品製造業",
+          "codeNameE": "Manufacturing of Sugar Confectionery and Bakery Products ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C105",
+          "codeName": "製油業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C106",
+          "codeName": "製粉業",
+          "codeNameE": "Grain Husking, Manufacture of Grain Mill Products, Starches and Starch Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C108",
+          "codeName": "製糖業",
+          "codeNameE": "Manufacture of Sugar",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C109",
+          "codeName": "調味品製造業",
+          "codeNameE": "Manufacture of Seasoning",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C110",
+          "codeName": "飲料製造業",
+          "codeNameE": "Beverage Manufacturing ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C111",
+          "codeName": "製茶業",
+          "codeNameE": "Tea Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C112",
+          "codeName": "製菸業",
+          "codeNameE": "Manufacture of Tobacco Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C113",
+          "codeName": "製酒業",
+          "codeNameE": "Alcoholic Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C114",
+          "codeName": "食品添加物製造業",
+          "codeNameE": "Food Additives Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C199",
+          "codeName": "其他食品製造業",
+          "codeNameE": "Manufacture of Other Food Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "C2",
+      "codeName": "飼料及寵物食品製造業",
+      "codeNameE": "Manufacture of Animal Feeds and Pet Food",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "C201",
+          "codeName": "飼料及寵物食品製造業",
+          "codeNameE": "Manufacture of Animal Feed and Pet Food",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "C3",
+      "codeName": "紡織、成衣、服飾品及紡織製品製造業",
+      "codeNameE": "Manufacture of Textiles, Wearing Apparel, Clothing Accessories and Made-up Textile Articles ",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "C301",
+          "codeName": "紡紗業",
+          "codeNameE": "Spinning of Yarn",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C302",
+          "codeName": "織布業",
+          "codeNameE": "Weaving of Textiles ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C303",
+          "codeName": "不織布業",
+          "codeNameE": "Manufacture of Non-woven Fabrics ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C305",
+          "codeName": "印染整理業",
+          "codeNameE": "Printing, Dyeing, and Finishing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C306",
+          "codeName": "成衣業",
+          "codeNameE": "Wearing Apparel",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C307",
+          "codeName": "服飾品製造業",
+          "codeNameE": "Clothing Accessories ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C399",
+          "codeName": "其他紡織及製品製造業",
+          "codeNameE": "Other Textile and Products Manufacturing ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "C4",
+      "codeName": "皮革、毛皮及其製品製造業",
+      "codeNameE": "Manufacture of Leather, Fur and Related Products",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "C401",
+          "codeName": "皮革、毛皮整製業",
+          "codeNameE": "Tanning and Dressing of Leather; Dressing and Dyeing of Fur",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C402",
+          "codeName": "皮革、毛皮製品製造業",
+          "codeNameE": "Manufacture of Leather, Fur and Related Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "C5",
+      "codeName": "木竹製品製造業",
+      "codeNameE": "Manufacture of Wood and of Products of Wood and Bamboo",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "C501",
+          "codeName": "木竹製品製造業",
+          "codeNameE": "Manufacture of Wood and of Products of Wood and Bamboo",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C502",
+          "codeName": "竹製品製造業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C503",
+          "codeName": "藤製品製造業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "C6",
+      "codeName": "紙漿、紙及紙製品業",
+      "codeNameE": "Manufacture of Paper and Paper Products",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "C601",
+          "codeName": "紙漿、紙及紙製品業",
+          "codeNameE": "Manufacture of Paper and Paper Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "C7",
+      "codeName": "印刷及其輔助業",
+      "codeNameE": "Printing and Service Activities Related to Printing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "C701",
+          "codeName": "印刷業",
+          "codeNameE": "Printing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C702",
+          "codeName": "製版業",
+          "codeNameE": "Plate Making Industry",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C703",
+          "codeName": "裝訂業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C704",
+          "codeName": "排版業",
+          "codeNameE": "\tTypesetting",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "C8",
+      "codeName": "化學業",
+      "codeNameE": "Chemical Industry",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "C801",
+          "codeName": "化學材料製造業",
+          "codeNameE": "Manufacture of Chemicals",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C802",
+          "codeName": "化學製品製造業",
+          "codeNameE": "Manufacture of Chemical Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C803",
+          "codeName": "石油及煤製品製造業",
+          "codeNameE": "Manufacture of Petroleum and Coal Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C804",
+          "codeName": "橡膠製品製造業",
+          "codeNameE": "Manufacture of Rubber Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "C805",
+          "codeName": "塑膠製品製造業",
+          "codeNameE": "Manufacture of Plastics Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "C9",
+      "codeName": "非金屬礦物製品製造業",
+      "codeNameE": "Manufacture of Other Non-metallic Mineral Products",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "C901",
+          "codeName": "非金屬礦物製品製造業",
+          "codeNameE": "Manufacture of Other Non-metallic Mineral Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CA",
+      "codeName": "金屬業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CA01",
+          "codeName": "鋼鐵、鋁、銅及鎂基本工業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "CA02",
+          "codeName": "金屬製品製造業",
+          "codeNameE": "Manufacture of Fabricated Metal Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "CA03",
+          "codeName": "熱處理業",
+          "codeNameE": "Heat Treatment ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "CA04",
+          "codeName": "表面處理業",
+          "codeNameE": "Surface Treatments",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "CA05",
+          "codeName": "粉末冶金業",
+          "codeNameE": "Powder Metallurgy",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CB",
+      "codeName": "機械製造業",
+      "codeNameE": "Machinery Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CB01",
+          "codeName": "機械製造業",
+          "codeNameE": "Machinery Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CC",
+      "codeName": "電機及電子機械器材業",
+      "codeNameE": "Electrical Engineering and Electronic Machinery Equipment Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CC01",
+          "codeName": "電機及電子機械器材製造業",
+          "codeNameE": "Electrical Engineering and Electronic Machinery Equipment Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CD",
+      "codeName": "運輸工具製造業",
+      "codeNameE": "Transport Equipment and Parts Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CD01",
+          "codeName": "運輸工具製造業",
+          "codeNameE": "Transport Equipment and Parts Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CE",
+      "codeName": "光學及精密器械製造業",
+      "codeNameE": "Optics and Precision Instrument Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CE01",
+          "codeName": "光學及精密器械製造業",
+          "codeNameE": "Optics and Precision Instrument Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CF",
+      "codeName": "醫療器材製造業",
+      "codeNameE": "Medical Devices Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CF01",
+          "codeName": "醫療器材製造業",
+          "codeNameE": "Medical Devices Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CG",
+      "codeName": "珠寶及貴金屬製品製造業",
+      "codeNameE": "Jewelry and Precious Metals Products Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CG01",
+          "codeName": "珠寶及貴金屬製品製造業",
+          "codeNameE": "Jewelry and Precious Metals Products Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CH",
+      "codeName": "育樂用品製造業",
+      "codeNameE": "Sports and Recreational Goods Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CH01",
+          "codeName": "育樂用品製造業",
+          "codeNameE": "Sports and Recreational Goods Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CI",
+      "codeName": "繩、纜、網、氈、毯製造業",
+      "codeNameE": "Rope, Cable, Net, Rug and Felt Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CI01",
+          "codeName": "繩、纜、網、氈、毯製造業",
+          "codeNameE": "Rope, Cable, Net, Rug and Felt Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CJ",
+      "codeName": "製帽業",
+      "codeNameE": "Hat Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CJ01",
+          "codeName": "製帽業",
+          "codeNameE": "Hat Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CK",
+      "codeName": "製鞋業",
+      "codeNameE": "Footwear Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CK01",
+          "codeName": "製鞋業",
+          "codeNameE": "Footwear Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CL",
+      "codeName": "製傘業",
+      "codeNameE": "Umbrella Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CL01",
+          "codeName": "製傘業",
+          "codeNameE": "Umbrella Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CM",
+      "codeName": "箱、包、袋業",
+      "codeNameE": "Case and Bag Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CM01",
+          "codeName": "箱、包、袋業",
+          "codeNameE": "Case and Bag Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "codeName": "家具及裝設品製造業",
+      "codeNameE": "Furniture and Decorations Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CN01",
+          "codeName": "家具及裝設品製造業",
+          "codeNameE": "Furniture and Decorations Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CO",
+      "codeName": "餐具製造業",
+      "codeNameE": "Tableware Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CO01",
+          "codeName": "餐具製造業",
+          "codeNameE": "Tableware Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CP",
+      "codeName": "手工具製造業",
+      "codeNameE": "Hand Tools Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CP01",
+          "codeName": "手工具製造業",
+          "codeNameE": "Hand Tools Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CQ",
+      "codeName": "模具製造業",
+      "codeNameE": "Mold and Die Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CQ01",
+          "codeName": "模具製造業",
+          "codeNameE": "Mold and Die Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CR",
+      "codeName": "瓦斯器材及其零件製造業",
+      "codeNameE": "Gas Apparatus and Parts Manufacturing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CR01",
+          "codeName": "瓦斯器材及其零件製造業",
+          "codeNameE": "Gas Apparatus and Parts Manufacturing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "CZ",
+      "codeName": "其他工業製品製造業",
+      "codeNameE": "Manufacture of Other Industrial Products",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "CZ99",
+          "codeName": "其他工業製品製造業",
+          "codeNameE": "Manufacture of Other Industrial Products",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

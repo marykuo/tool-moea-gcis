@@ -1,0 +1,564 @@
+{
+  "code": "J",
+  "codeName": "文化、運動、休閒及其他服務業",
+  "codeNameE": "Cultural, Sports, Recreational and Other Services",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "J1",
+      "codeName": "環保服務業",
+      "codeNameE": "Environmental Services",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "J101",
+          "codeName": "環保服務業",
+          "codeNameE": "Environmental Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "J2",
+      "codeName": "訓練服務業",
+      "codeNameE": "Training Services",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "J201",
+          "codeName": "訓練服務業",
+          "codeNameE": "Training Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J202",
+          "codeName": "產業育成業",
+          "codeNameE": "Industry Innovation and Incubation Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "J3",
+      "codeName": "出版事業",
+      "codeNameE": "Publishing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "J301",
+          "codeName": "報紙業",
+          "codeNameE": "Newspaper",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J302",
+          "codeName": "通訊稿業",
+          "codeNameE": "Press Release",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J303",
+          "codeName": "雜誌（期刊）出版業",
+          "codeNameE": "Magazine(Periodical) Publishing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J304",
+          "codeName": "書籍出版業",
+          "codeNameE": "Book Publishing ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J305",
+          "codeName": "有聲出版業",
+          "codeNameE": "Audio Publishing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J399",
+          "codeName": "其他出版業",
+          "codeNameE": "Other Publishing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "J4",
+      "codeName": "電影事業",
+      "codeNameE": "Motion Picture",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "J401",
+          "codeName": "電影片製作業",
+          "codeNameE": "Motion Picture Production",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J402",
+          "codeName": "電影片發行業",
+          "codeNameE": "Motion Picture Distribution",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J403",
+          "codeName": "電影片映演業",
+          "codeNameE": "Motion Picture Projection",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J404",
+          "codeName": "提供電影器材、設施及技術之事業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "J5",
+      "codeName": "廣播電視業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "J501",
+          "codeName": "廣播業",
+          "codeNameE": "Radio Broadcasting",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J502",
+          "codeName": "電視業",
+          "codeNameE": "Television Broadcasting ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J503",
+          "codeName": "廣播電視節目供應業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J504",
+          "codeName": "有線廣播電視業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J506",
+          "codeName": "衛星廣播電視業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "J6",
+      "codeName": "藝文業",
+      "codeNameE": "Arts and Literature",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "J601",
+          "codeName": "藝文服務業",
+          "codeNameE": "Arts and Literature Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J602",
+          "codeName": "演藝活動業",
+          "codeNameE": "Performing Arts Activities",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J603",
+          "codeName": "音樂展演空間業",
+          "codeNameE": "Live House",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J604",
+          "codeName": "聲音錄製及音樂發行業",
+          "codeNameE": "Sound Recording and Music Distribution",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "J7",
+      "codeName": "休閒、娛樂服務業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "J701",
+          "codeName": "休閒服務業",
+          "codeNameE": "Recreational Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J702",
+          "codeName": "特殊娛樂業",
+          "codeNameE": "Special Amusement Activities",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J799",
+          "codeName": "其他休閒服務業",
+          "codeNameE": "Other Recreational Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "J8",
+      "codeName": "運動服務業",
+      "codeNameE": "Sports Activities",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "J801",
+          "codeName": "運動場館業",
+          "codeNameE": "Operation of Sports Facilities",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J802",
+          "codeName": "運動訓練業",
+          "codeNameE": "Sports Training",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J803",
+          "codeName": "職業運動業",
+          "codeNameE": "Professional Sports Activities",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "J9",
+      "codeName": "觀光及旅遊服務業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "J901",
+          "codeName": "旅館業",
+          "codeNameE": "Hotel",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J902",
+          "codeName": "旅行業",
+          "codeNameE": "Travel Agencies",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J903",
+          "codeName": "旅遊諮詢服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J904",
+          "codeName": "觀光遊樂業",
+          "codeNameE": "Tourist Amusement",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "J905",
+          "codeName": "民宿",
+          "codeNameE": "Homestay",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JA",
+      "codeName": "個人服務業",
+      "codeNameE": "Personal Service Activities",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JA01",
+          "codeName": "汽車服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "JA02",
+          "codeName": "維修服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "JA03",
+          "codeName": "洗衣業",
+          "codeNameE": "Laundry",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "JA04",
+          "codeName": "移民服務業",
+          "codeNameE": "Emigrant and Immigrant Services ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "JA05",
+          "codeName": "留學服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JB",
+      "codeName": "會議及展覽服務業",
+      "codeNameE": "Conference and Exhibition Services",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JB01",
+          "codeName": "會議及展覽服務業",
+          "codeNameE": "Conference and Exhibition Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JC",
+      "codeName": "氣象服務業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JC01",
+          "codeName": "氣象服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JD",
+      "codeName": "工商徵信服務業",
+      "codeNameE": "Industrial and Commercial Credit Checking Service",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JD01",
+          "codeName": "工商徵信服務業",
+          "codeNameE": "Industrial and Commercial Credit Checking Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JE",
+      "codeName": "租賃業",
+      "codeNameE": "Rental and Leasing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JE01",
+          "codeName": "租賃業",
+          "codeNameE": "Rental and Leasing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JF",
+      "codeName": "民俗調理業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JF01",
+          "codeName": "民俗調理業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JG",
+      "codeName": "兒童課後照顧服務業",
+      "codeNameE": "After-School Child Care Services",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JG01",
+          "codeName": "兒童課後照顧服務業",
+          "codeNameE": "After-School Child Care Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JH",
+      "codeName": "長期照顧服務業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JH01",
+          "codeName": "居家式服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "JH02",
+          "codeName": "社區式服務業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JI",
+      "codeName": "互動式情境體驗業",
+      "codeNameE": "Interactive Scenario Experience Services",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JI01",
+          "codeName": "互動式情境體驗業",
+          "codeNameE": "Interactive Scenario Experience Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "JZ",
+      "codeName": "其他服務業",
+      "codeNameE": "Unclassified Other Services",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "JZ99",
+          "codeName": "其他服務業",
+          "codeNameE": "Unclassified Other Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}

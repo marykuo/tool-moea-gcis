@@ -1,0 +1,497 @@
+{
+  "code": "I",
+  "codeName": "專業、科學及技術服務業",
+  "codeNameE": "Professional, Scientific and Technical Activities",
+  "description": null,
+  "isStop": "F",
+  "codeSearchDto": [
+    {
+      "code": "I1",
+      "codeName": "顧問服務業",
+      "codeNameE": "Consulting Service",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "I101",
+          "codeName": "技術顧問業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "I102",
+          "codeName": "一般投資顧問業",
+          "codeNameE": "General Investment Consulting",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "I103",
+          "codeName": "管理顧問業",
+          "codeNameE": "Management Consulting",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "I105",
+          "codeName": "藝術品諮詢顧問業",
+          "codeNameE": "Artwork Consulting",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "I199",
+          "codeName": "其他顧問服務業",
+          "codeNameE": "Other Consulting Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "I3",
+      "codeName": "資訊服務業",
+      "codeNameE": "Information Services",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "I301",
+          "codeName": "資訊服務業",
+          "codeNameE": "Information Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "I4",
+      "codeName": "廣告業",
+      "codeNameE": "Advertisement Service",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "I401",
+          "codeName": "廣告業",
+          "codeNameE": "Advertisement Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "I5",
+      "codeName": "設計業",
+      "codeNameE": "Designing",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "I501",
+          "codeName": "產品設計業",
+          "codeNameE": "Product Designing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "I502",
+          "codeName": "服飾設計業",
+          "codeNameE": "Clothing Designing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "I503",
+          "codeName": "景觀設計業",
+          "codeNameE": "Landscape Designing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "I504",
+          "codeName": "花藝設計業",
+          "codeNameE": "Floriculture Designing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "I599",
+          "codeName": "其他設計業",
+          "codeNameE": "Other Designing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "I7",
+      "codeName": "就業服務業",
+      "codeNameE": "Employment Service",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "I701",
+          "codeName": "就業服務業",
+          "codeNameE": "Employment Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "I8",
+      "codeName": "公寓大廈管理服務業",
+      "codeNameE": "Condominium Buildings Management Service",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "I801",
+          "codeName": "公寓大廈管理服務業",
+          "codeNameE": "Condominium Buildings Management Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "I9",
+      "codeName": "保全業",
+      "codeNameE": "Private Security Service",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "I901",
+          "codeName": "保全業",
+          "codeNameE": "Private Security Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "IA",
+      "codeName": "工業檢驗業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "IA01",
+          "codeName": "工業檢驗業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "IB",
+      "codeName": "建築物公共安全檢查業",
+      "codeNameE": "Buildings Public Security Inspecting",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "IB01",
+          "codeName": "建築物公共安全檢查業",
+          "codeNameE": "Buildings Public Security Inspecting",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "IC",
+      "codeName": "藥品檢驗業",
+      "codeNameE": "Medicine Inspection",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "IC01",
+          "codeName": "藥品檢驗業",
+          "codeNameE": "Medicine Inspection",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "ID",
+      "codeName": "度量衡器證明業",
+      "codeNameE": "Measuring Instruments Certification",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "ID01",
+          "codeName": "度量衡器證明業",
+          "codeNameE": "Measuring Instruments Certification",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "IE",
+      "codeName": "電信業務門號代辦業",
+      "codeNameE": "Telecommunications Service Number Agencies",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "IE01",
+          "codeName": "電信業務門號代辦業",
+          "codeNameE": "Telecommunications Service Number Agencies",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "IF",
+      "codeName": "檢測維護業",
+      "codeNameE": "Inspection and Repair",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "IF01",
+          "codeName": "消防安全設備檢修業",
+          "codeNameE": "Fire Safety Equipment Inspection and Repair",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IF03",
+          "codeName": "液化石油氣鋼瓶檢驗業",
+          "codeNameE": "Liquefied Petroleum Gas Cylinder Lnspection",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IF04",
+          "codeName": "非破壞檢測業",
+          "codeNameE": "Non-destructive Testing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "IG",
+      "codeName": "研究發展服務業",
+      "codeNameE": "Research and Development Service",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "IG01",
+          "codeName": "生物技術服務業",
+          "codeNameE": "Biotechnology Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IG02",
+          "codeName": "研究發展服務業",
+          "codeNameE": "Research and Development Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IG03",
+          "codeName": "能源技術服務業",
+          "codeNameE": "Energy Technical Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "IH",
+      "codeName": "產業控股業",
+      "codeNameE": null,
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "IH01",
+          "codeName": "產業控股業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    },
+    {
+      "code": "IZ",
+      "codeName": "其他專業、科學及技術服務業",
+      "codeNameE": "Other Professional, Scientific and Technical Activities",
+      "description": null,
+      "isStop": "F",
+      "codeSearchDto": [
+        {
+          "code": "IZ01",
+          "codeName": "影印業",
+          "codeNameE": "Photocopy",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ02",
+          "codeName": "打字業",
+          "codeNameE": "Typing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ03",
+          "codeName": "剪報業",
+          "codeNameE": "Clipping",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ04",
+          "codeName": "翻譯業",
+          "codeNameE": "Translation",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ06",
+          "codeName": "理貨包裝業",
+          "codeNameE": "Tally Packaging ",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ07",
+          "codeName": "公證業",
+          "codeNameE": "Notarization",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ09",
+          "codeName": "管理系統驗證業",
+          "codeNameE": "Management System Certification",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ10",
+          "codeName": "排版業",
+          "codeNameE": "Typesetting",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ12",
+          "codeName": "人力派遣業",
+          "codeNameE": "Manpower Dispatched",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ13",
+          "codeName": "網路認證服務業",
+          "codeNameE": "Internet Certificates Service",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ14",
+          "codeName": "公益彩券業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ15",
+          "codeName": "市場研究及民意調查業",
+          "codeNameE": "Market Research and Public Opinion Polling",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ16",
+          "codeName": "餐具清洗業",
+          "codeNameE": "Tableware cleansing",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ17",
+          "codeName": "遊說業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ18",
+          "codeName": "運動彩券業",
+          "codeNameE": null,
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        },
+        {
+          "code": "IZ99",
+          "codeName": "其他工商服務業",
+          "codeNameE": "Other Industrial and Commercial Services",
+          "description": null,
+          "isStop": "F",
+          "codeSearchDto": []
+        }
+      ]
+    }
+  ]
+}
