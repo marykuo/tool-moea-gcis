@@ -6,7 +6,7 @@ DATA_DIR = Path("data/gcis")
 GCIS_HOST = "https://gcis.nat.gov.tw"
 
 
-def fetch_cod_data(gcis_host: str = GCIS_HOST):
+def fetch_cod_data(gcis_host: str = GCIS_HOST) -> None:
     """
     大類 Section
     中類 Division
@@ -27,7 +27,7 @@ def fetch_cod_data(gcis_host: str = GCIS_HOST):
     fetch_full_codes(gcis_host, section_code_list, group_list_by_section)
 
 
-def fetch_section_codes(gcis_host):
+def fetch_section_codes(gcis_host: str = GCIS_HOST) -> list[str]:
     print("\n=== Fetching Section Codes ===")
     response = fetch_api(f"{gcis_host}/elawCodAp/api/codeSearch/getAllMainCode")
 
@@ -44,7 +44,9 @@ def fetch_section_codes(gcis_host):
     return section_code_list
 
 
-def fetch_child_codes(gcis_host, section_code_list):
+def fetch_child_codes(
+    gcis_host: str = GCIS_HOST, section_code_list: list[str] = None
+) -> dict[str, list]:
     print("\n=== Fetching Child Codes ===")
     full_child_list = []
     child_list_by_section = {code: None for code in section_code_list}
@@ -69,7 +71,9 @@ def fetch_child_codes(gcis_host, section_code_list):
     return child_list_by_section
 
 
-def fetch_division_codes(section_code_list, child_list_by_section):
+def fetch_division_codes(
+    section_code_list: list[str], child_list_by_section: dict[str, list]
+) -> None:
     print("\n=== Fetching Division Codes ===")
     division_full_list = []
     for section_code in section_code_list:
@@ -89,7 +93,9 @@ def fetch_division_codes(section_code_list, child_list_by_section):
     save_json_to_file(division_full_list, DATA_DIR / "2_division_code.json")
 
 
-def fetch_group_codes(child_list_by_section, section_code_list):
+def fetch_group_codes(
+    child_list_by_section: dict[str, list], section_code_list: list[str]
+) -> dict[str, list]:
     print("\n=== Fetching Group Codes ===")
     group_full_list = []
     group_list_by_section = {code: [] for code in section_code_list}
@@ -114,7 +120,11 @@ def fetch_group_codes(child_list_by_section, section_code_list):
     return group_list_by_section
 
 
-def fetch_full_codes(gcis_host, section_code_list, group_list_by_section):
+def fetch_full_codes(
+    gcis_host: str = GCIS_HOST,
+    section_code_list: list[str] = None,
+    group_list_by_section: dict[str, list] = None,
+) -> None:
     print("\n=== Fetching Full Codes ===")
     full_code_list = []
     full_codes_by_section = {code: [] for code in section_code_list}

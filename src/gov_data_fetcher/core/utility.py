@@ -3,13 +3,13 @@ import requests
 import json
 
 
-def fetch_api(url):
+def fetch_api(url) -> dict:
     response = requests.post(url)
     response.raise_for_status()  # Raise an error for bad status
     return response.json()
 
 
-def save_json_to_file(data, filename):
+def save_json_to_file(data: dict, filename: str) -> None:
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
