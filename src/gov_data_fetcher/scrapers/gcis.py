@@ -6,14 +6,14 @@ DATA_DIR = Path("data/gcis")
 GCIS_HOST = "https://gcis.nat.gov.tw"
 
 
-def fetch_cod_data(gcis_host: str = GCIS_HOST) -> None:
+def fetch_gcis_cod_data(gcis_host: str = GCIS_HOST) -> None:
     """
     大類 Section
     中類 Division
     小類 Group
     細類 Class
     """
-    print("\n=== Fetching COD Data ===")
+    print("\n=== Fetching GCIS COD Data ===")
 
     # fetch section codes
     section_code_list = fetch_section_codes(gcis_host)
