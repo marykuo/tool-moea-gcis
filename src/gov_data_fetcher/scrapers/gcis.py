@@ -6,6 +6,18 @@ DATA_DIR = Path("data/gcis")
 GCIS_HOST = "https://gcis.nat.gov.tw"
 
 
+def fetch_gcis_announcement_data(gcis_host: str = GCIS_HOST) -> None:
+    """
+    訊息公告
+    """
+    print("\n=== Fetching GCIS Announcement Data ===")
+    response = fetch_api(f"{gcis_host}/elawCodAp/api/announcements/getPageNews?size=100")
+    print(f"Fetched {len(response['content'])} announcements")
+
+    # save raw response
+    save_json_to_file(response, DATA_DIR / "announcements.json")
+
+
 def fetch_gcis_cod_data(gcis_host: str = GCIS_HOST) -> None:
     """
     大類 Section
